@@ -1,0 +1,16 @@
+<!DOTYPE html>
+<html lang = "en">
+<head>
+    <meta charset ="UTF=8">
+<title>lista de cursos de la edayo</title>
+</head>
+<body>
+   <ul>
+      <li> vagrant </li>
+      <li> docker: creando contenedores sin dolor de cabeza </li>
+      <li> ansible </li>
+      <li> integracion continua </li>
+      <li> cubernetes </li>
+   </ul>
+</body>
+</html>
